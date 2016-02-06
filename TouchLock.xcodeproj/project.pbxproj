@@ -484,6 +484,7 @@
 				07EB9F0A1C6671450052AFF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07EB9F0B1C6671450052AFF6 /* Build configuration list for PBXNativeTarget "TouchLockTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				07EB9F0D1C6671450052AFF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		07EB9F0E1C6671450052AFF6 /* Build configuration list for PBXNativeTarget "TouchLockUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				07EB9F101C6671450052AFF6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
